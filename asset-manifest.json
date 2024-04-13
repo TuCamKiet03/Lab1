@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Lab1/static/css/main.5db2a10c.css",
-    "main.js": "/Lab1/static/js/main.6cec0565.js",
-    "static/js/453.29314506.chunk.js": "/Lab1/static/js/453.29314506.chunk.js",
-    "static/media/look.png": "/Lab1/static/media/look.7c78d6d11d36a9fcc314.png",
-    "index.html": "/Lab1/index.html",
-    "main.5db2a10c.css.map": "/Lab1/static/css/main.5db2a10c.css.map",
-    "main.6cec0565.js.map": "/Lab1/static/js/main.6cec0565.js.map",
-    "453.29314506.chunk.js.map": "/Lab1/static/js/453.29314506.chunk.js.map"
+    "main.css": "/Food-Rice-Restaurant-Location/static/css/main.ae61e390.css",
+    "main.js": "/Food-Rice-Restaurant-Location/static/js/main.b1ef0fcd.js",
+    "static/js/453.29314506.chunk.js": "/Food-Rice-Restaurant-Location/static/js/453.29314506.chunk.js",
+    "static/media/look.png": "/Food-Rice-Restaurant-Location/static/media/look.7c78d6d11d36a9fcc314.png",
+    "index.html": "/Food-Rice-Restaurant-Location/index.html",
+    "main.ae61e390.css.map": "/Food-Rice-Restaurant-Location/static/css/main.ae61e390.css.map",
+    "main.b1ef0fcd.js.map": "/Food-Rice-Restaurant-Location/static/js/main.b1ef0fcd.js.map",
+    "453.29314506.chunk.js.map": "/Food-Rice-Restaurant-Location/static/js/453.29314506.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5db2a10c.css",
-    "static/js/main.6cec0565.js"
+    "static/css/main.ae61e390.css",
+    "static/js/main.b1ef0fcd.js"
   ]
 }
